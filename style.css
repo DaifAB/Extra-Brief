@@ -11,7 +11,7 @@ body{
 .first{
     height: 100vh;
     width: 100%;
-    background-image: url('img/Layer1.png');
+    background-image: url('./img/Layer1.png');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -180,7 +180,7 @@ background-color: #AA6327;
 .third{
     height: 100vh;
     width: 100%;
-    background-image: url('img/Layer20.png');
+    background-image: url('./img/Layer20.png');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
